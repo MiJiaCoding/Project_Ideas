@@ -1,7 +1,6 @@
-# Project_Ideas
-Give you some inspiration for the project
+# Give you some inspiration for the project
 
-What to build? 写项目，写什么？
+## What to build? 写项目，写什么？
 
 app-ideas ⭐⭐⭐⭐⭐
 
