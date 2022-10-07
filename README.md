@@ -4,7 +4,7 @@
 
 + app-ideas ⭐⭐⭐⭐⭐
 
-:laughing: https://github.com/florinpop17/app-ideas
+   :laughing: https://github.com/florinpop17/app-ideas
 
 + project-based-learning ⭐⭐⭐⭐
 
